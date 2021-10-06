@@ -8,6 +8,6 @@ Shader "Custom/Transparent"
 
     Pass{Blend Zero One}
 
-
+     
     }
 }
